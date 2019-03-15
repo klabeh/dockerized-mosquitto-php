@@ -16,3 +16,6 @@ Set Username & Password for Connections to Mosquitto (Anonymous is disabled)<br>
     
 Restart docker Containers<br>
 `docker-compose restart`
+
+Mosquitto-PHP Documentation<br>
+https://mosquitto-php.readthedocs.io/en/latest/index.html
